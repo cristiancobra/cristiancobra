@@ -19,4 +19,5 @@ Sempre trabalhei de forma remota e aprendi a programar de maneira autodidata. Go
 
 ### Currículo
 
-**[Linkedin](https://www.linkedin.com/in/cristian-dos-santos-26086817b/)**
+**[Versão Linkedin](https://www.linkedin.com/in/cristian-dos-santos-26086817b/)**
+**[Versão PDF](https://file.io/llJNesn6IEI6)
