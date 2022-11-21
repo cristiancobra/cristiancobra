@@ -8,7 +8,7 @@ Sempre trabalhei de forma remota e aprendi a programar de maneira autodidata. Go
 ### Portifólio
 
 **[Plataforma Empresa Digital](https://empresadigital.net.br/)**
-Criação e desenvolvimento Fullstack. Laravel, Mysql, Javascript, Html e CSS.
+- Criação e desenvolvimento Fullstack. Laravel, Mysql, Javascript, Html e CSS.
 
 **[Clinimap](https://clinimap.com.br/)**
 - Presto serviços como freelancer: correções, novas funcionalidades, integração com email e WhatsApp. Cake, Node.js, Mysql, Javascript, Jquery, Html e CSS.
