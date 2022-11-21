@@ -17,3 +17,6 @@ Sempre trabalhei de forma remota e aprendi a programar de maneira autodidata. Go
 - Presto serviços como freelancer: criação de Api com webhooks. Cake, WooCommerce, Javascript.
 
 
+### Currículo
+
+**[Linkedin](https://www.linkedin.com/in/cristian-dos-santos-26086817b/)**
